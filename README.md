@@ -96,9 +96,4 @@ Resultado final no Lovable: https://talk-spend-smart.lovable.app/
 ### O que aprendeu sobre conversar com IAs?
 - É importante estruturar bem o contexto e os objetivos para que a IA ofereça respostas úteis e direcionadas.  
 - A IA pode ajudar a sintetizar conceitos complexos em linguagem acessível, tornando o aprendizado mais rápido.  
-- Conversar com IAs é uma forma de prototipar ideias: você testa hipóteses, recebe feedback imediato e ajusta o produto de forma iterativa.  
-
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+- Conversar com IAs é uma forma de prototipar ideias: você testa hipóteses, recebe feedback imediato e ajusta o produto de forma iterativa.
